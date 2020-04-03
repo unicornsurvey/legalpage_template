@@ -1,5 +1,5 @@
 These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with
-https://[SERVICE] website (the "Service") operated by [COMPANY] ("us", "we",
+[SERVICE] website (the "Service") operated by [COMPANY] ("us", "we",
 or "our").
 
 Please read these Terms and Conditions carefully before using the Service.

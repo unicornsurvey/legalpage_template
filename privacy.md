@@ -1,4 +1,4 @@
-[COMPANY] ("us", "we", or "our") operates the https://[SERVICE] website
+[COMPANY] ("us", "we", or "our") operates the [SERVICE] website
 (hereinafter referred
 to
 as
@@ -10,12 +10,12 @@ use our Service and the choices you have associated with that data.
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and
 use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the
 terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from
-https://[SERVICE]
+[SERVICE]
 
 #### Definitions
 
 * __Service__
-Service is the https://[SERVICE] website operated by [COMPANY]
+Service is the [SERVICE] website operated by [COMPANY]
 
 * __Personal Data__
 Personal Data means data about a living individual who can be identified from those data (or from
