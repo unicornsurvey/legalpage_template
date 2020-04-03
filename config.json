@@ -1,3 +1,6 @@
 {
-    "pages": ["privacy", "terms", "cookies", "imprint"]
+    "pages": ["privacy", "terms", "cookies", "imprint"],
+    "service": "https://legalpage.org",
+    "email": "mail@legalpage.org",
+    "company": "legalpage.org"
 }
