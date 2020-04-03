@@ -1,10 +1,3 @@
----
-title: "Cookies"
-date: 2020-02-12T12:14:34+06:00
-image: ""
-description: ""
----
-
 Cookies are small amounts of data that we store on the device (computer, mobile phone, tablet, or other mobile 
 device) that allows us to recognize returning users. Each cookie expires after a certain time, depending on what we
 use it for.

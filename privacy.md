@@ -1,15 +1,3 @@
----
-title: "Privacy Policy"
-date: 2020-02-12T12:14:34+06:00
-image: ""
-description: ""
----
-
-
-
-Effective date: June 30, 2019
-
-
 {{COMPANY}} ("us", "we", or "our") operates the https://{{SERVICE}} website
 (hereinafter referred
 to

@@ -1,11 +1,3 @@
----
-title: "Terms and Conditions"
-date: 2020-02-12T12:14:34+06:00
-image: ""
-description: ""
----
-
-
 These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with
 https://{{SERVICE}} website (the "Service") operated by {{COMPANY}} ("us", "we",
 or "our").
