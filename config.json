@@ -1,5 +1,6 @@
 {
     "pages": ["privacy", "terms", "cookies", "imprint"],
+    "name": "Legal Page",
     "service": "https://legalpage.org",
     "email": "mail@legalpage.org",
     "company": "Awesome Company GmbH"
