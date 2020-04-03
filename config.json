@@ -3,5 +3,6 @@
     "name": "Legal Page",
     "service": "https://legalpage.org",
     "email": "mail@legalpage.org",
-    "company": "Awesome Company GmbH"
+    "company": "Awesome Company GmbH",
+    "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"
 }
