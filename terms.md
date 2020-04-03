@@ -1,5 +1,5 @@
 These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with
-https://{{SERVICE}} website (the "Service") operated by {{COMPANY}} ("us", "we",
+https://[SERVICE] website (the "Service") operated by [COMPANY] ("us", "we",
 or "our").
 
 Please read these Terms and Conditions carefully before using the Service.
@@ -17,26 +17,26 @@ Some parts of the Service are billed on a subscription basis ("Subscription(s)")
 advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set on a monthly basis.
 
 At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions
-unless you cancel it or {{COMPANY}} cancels it. You may cancel your Subscription renewal either through
-your online account management page or by contacting {{COMPANY}} customer support team.
+unless you cancel it or [COMPANY] cancels it. You may cancel your Subscription renewal either through
+your online account management page or by contacting [COMPANY] customer support team.
 
 A valid payment method, including credit card or PayPal, is required to process the payment for your
-Subscription. You shall provide {{COMPANY}} with accurate and complete billing information including full
+Subscription. You shall provide [COMPANY] with accurate and complete billing information including full
 name, address, state, zip code, telephone number, and a valid payment method information. By submitting such
-payment information, you automatically authorize {{COMPANY}} to charge all Subscription fees incurred
+payment information, you automatically authorize [COMPANY] to charge all Subscription fees incurred
 through your account to any such payment instruments.
 
-Should automatic billing fail to occur for any reason, {{COMPANY}} will issue an electronic invoice
+Should automatic billing fail to occur for any reason, [COMPANY] will issue an electronic invoice
 indicating that you must proceed manually, within a certain deadline date, with the full payment
 corresponding to the billing period as indicated on the invoice.
 
 
 #### Fee Changes
 
-{{COMPANY}}, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions.
+[COMPANY], in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions.
 Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
-{{COMPANY}} will provide you with a reasonable prior notice of any change in Subscription fees to give you
+[COMPANY] will provide you with a reasonable prior notice of any change in Subscription fees to give you
 an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes your
@@ -78,7 +78,7 @@ appropriate authorization, or a name that is otherwise offensive, vulgar or obsc
 #### Intellectual Property
 
 The Service and its original content (excluding Content provided by users), features and functionality are
-and will remain the exclusive property of {{COMPANY}} and its licensors. The Service is protected by
+and will remain the exclusive property of [COMPANY] and its licensors. The Service is protected by
 copyright, trademark, and other laws of both the Switzerland and foreign countries. Our trademarks and trade
 dress may not be used in connection with any product or service without the prior written consent of aupa.io
 GmbH.
@@ -87,10 +87,10 @@ GmbH.
 #### Links To Other Web Sites
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by
-{{COMPANY}}.
+[COMPANY].
 
-{{COMPANY}} has no control over, and assumes no responsibility for, the content, privacy policies, or
-practices of any third party web sites or services. You further acknowledge and agree that {{COMPANY}}
+[COMPANY] has no control over, and assumes no responsibility for, the content, privacy policies, or
+practices of any third party web sites or services. You further acknowledge and agree that [COMPANY]
 shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be
 caused by or in connection with use of or reliance on any such content, goods or services available on or
 through any such web sites or services.
@@ -110,7 +110,7 @@ account, you may simply discontinue using the Service.
 
 #### Limitation Of Liability
 
->In no event shall {{COMPANY}}, nor its directors, employees, partners, agents, suppliers, or affiliates, be
+>In no event shall [COMPANY], nor its directors, employees, partners, agents, suppliers, or affiliates, be
 >liable for any indirect, incidental, special, consequential or punitive damages, including without
 >limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access
 >to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on
@@ -127,7 +127,7 @@ account, you may simply discontinue using the Service.
 >limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or
 >course of performance.
 
->{{COMPANY}} its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function
+>[COMPANY] its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function
 >uninterrupted, secure or available at any particular time or location; b) any errors or defects will be
 >corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the
 >Service will meet your requirements.
@@ -157,4 +157,4 @@ the revised terms. If you do not agree to the new terms, please stop using the S
 #### Contact Us
 
 If you have any questions about these Terms, please contact us.
-{{EMAIL}}
+[EMAIL]

@@ -1,4 +1,4 @@
-{{COMPANY}} ("us", "we", or "our") operates the https://{{SERVICE}} website
+[COMPANY] ("us", "we", or "our") operates the https://[SERVICE] website
 (hereinafter referred
 to
 as
@@ -10,12 +10,12 @@ use our Service and the choices you have associated with that data.
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and
 use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the
 terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from
-https://{{SERVICE}}
+https://[SERVICE]
 
 #### Definitions
 
 * __Service__
-Service is the https://{{SERVICE}} website operated by {{COMPANY}}
+Service is the https://[SERVICE] website operated by [COMPANY]
 
 * __Personal Data__
 Personal Data means data about a living individual who can be identified from those data (or from
@@ -84,7 +84,7 @@ Examples of Cookies we use:
 
 
 #### Use of Data
-{{COMPANY}} uses the collected data for various purposes:
+[COMPANY] uses the collected data for various purposes:
 
 * To provide and maintain our Service
 * To notify you about changes to our Service
@@ -97,10 +97,10 @@ Examples of Cookies we use:
 
 
 #### Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)
-If you are from the European Economic Area (EEA), {{COMPANY}} legal basis for collecting and using the
+If you are from the European Economic Area (EEA), [COMPANY] legal basis for collecting and using the
 personal information described in this Privacy Policy depends on the Personal Data we collect and the
 specific context in which we collect it.
-{{COMPANY}} may process your Personal Data because:
+[COMPANY] may process your Personal Data because:
 
 * We need to perform a contract with you
 * You have given us permission to do so
@@ -111,11 +111,11 @@ specific context in which we collect it.
 
 
 #### Retention of Data
-{{COMPANY}} will retain your Personal Data only for as long as is necessary for the purposes set out in this
+[COMPANY] will retain your Personal Data only for as long as is necessary for the purposes set out in this
 Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal
 obligations (for example, if we are required to retain your data to comply with applicable laws), resolve
 disputes and enforce our legal agreements and policies.
-{{COMPANY}} will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for
+[COMPANY] will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for
 a shorter period of time, except when this data is used to strengthen the security or to improve the
 functionality of our Service, or we are legally obligated to retain this data for longer periods.
 
@@ -127,7 +127,7 @@ If you are located outside Switzerland and choose to provide information to us, 
 the data, including Personal Data, to Switzerland and process it there.
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement
 to that transfer.
-{{COMPANY}} will take all the steps reasonably necessary to ensure that your data is treated securely and in
+[COMPANY] will take all the steps reasonably necessary to ensure that your data is treated securely and in
 accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation
 or a country unless there are adequate controls in place including the security of your data and other
 personal information.
@@ -135,14 +135,14 @@ personal information.
 #### Disclosure of Data
 
 Disclosure for Law Enforcement
-Under certain circumstances, {{COMPANY}} may be required to disclose your Personal Data if required to do so
+Under certain circumstances, [COMPANY] may be required to disclose your Personal Data if required to do so
 by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 Legal Requirements
-{{COMPANY}} may disclose your Personal Data in the good faith belief that such action is necessary to:
+[COMPANY] may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 * To comply with a legal obligation
-* To protect and defend the rights or property of {{COMPANY}}
+* To protect and defend the rights or property of [COMPANY]
 * To prevent or investigate possible wrongdoing in connection with the Service
 * To protect the personal safety of users of the Service or the public
 * To protect against legal liability
@@ -184,7 +184,7 @@ processing of your personal information.
 information we have on you in a structured, machine-readable and commonly used format.
 
 * __The right to withdraw consent.__ You also have the right to withdraw your consent at
-any time where {{COMPANY}} relied on your consent to process your personal information.
+any time where [COMPANY] relied on your consent to process your personal information.
 
 
 Please note that we may ask you to verify your identity before responding to such requests.
@@ -239,4 +239,4 @@ are effective when they are posted on this page.
 
 #### Contact Us
 If you have any questions about this Privacy Policy, please contact us:
-* {{EMAIL}}
+* [EMAIL]
