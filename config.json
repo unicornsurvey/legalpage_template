@@ -1,9 +1,0 @@
-{
-    "name": "Legal Page",
-    "description": "Your legal page served from git",
-    "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png",
-    "service": "https://legalpage.org",
-    "email": "mail@legalpage.org",
-    "company": "Awesome Company GmbH",
-    "pages": ["privacy", "terms", "cookies", "imprint"]
-}

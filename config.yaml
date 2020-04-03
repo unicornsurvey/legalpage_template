@@ -1,0 +1,22 @@
+legalpage:
+  name: Legal Page
+  description: Your legal page served from git
+  logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+  
+placeholder:
+ service: https://legalpage.org
+ email: mail@legalpage.org
+ company: Awesome Company GmbH
+
+pages:
+- name: Privacy
+  file: privacy.md
+
+- name: Terms
+  file: terms.md
+
+- name: Cookies
+  file: cookies.md
+
+- name: Imprint
+  file: impront.md
