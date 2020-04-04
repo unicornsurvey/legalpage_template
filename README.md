@@ -27,9 +27,9 @@ You can freely modify the templates and even add additional pages to your legal 
 
 
 
-## Done
+## Done 🎉
 
-🎉 Congrats your legal page is now available at:   
+Congrats your legal page is now available at:   
 
 https://legalpage.org/YOUR-DOMAIN.COM
 
