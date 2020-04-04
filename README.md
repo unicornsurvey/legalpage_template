@@ -12,7 +12,7 @@ https://github.com/vincenzourbisaglia/legalpage_template
 ![](https://legalpage.org/images/baseline_info_black_18dp.png) Make sure your repository is public. 
 
 ### 2. Verify ownership of your domain
-Every legalpage is binded to a domain.   
+Every legalpage is bound to a domain.   
 To verify that you own your domain create a TXT record that points to your legal page repository.
 
 ![](https://legalpage.org/images/dnsrecord.png)
