@@ -1,4 +1,5 @@
-![](https://legalpage.org/images/logo.png)
+![](https://legalpage.org/images/logo.png)   
+
 Because creating a legal page sucks.
 
 ## Why?
