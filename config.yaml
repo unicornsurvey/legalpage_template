@@ -3,7 +3,7 @@ home:
   logo: https://legalpage.org/images/logo.png # 264px * 80px
   description: Your legal page served from git
   website: "https://legalpage.org"
-  hideFooter: false # Please don't ❤
+  footer: true
 
 pages:
 - name: Privacy
