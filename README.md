@@ -1,9 +1,8 @@
 ![](https://legalpage.org/images/logo.png)   
 
-Because creating a legal page sucks.
 
 ## Why?
-I love to create apps, but hate to create a legal page.
+Because creating a legal page sucks.
 
 ## How?
 With this repo you can host your legal page in just 3 steps.
