@@ -1,6 +1,6 @@
 home:
   name: Legal Page
-  logo: https://legalpage.org/images/logo.png # 264px * 80px
+  logo: https://legalpage.org/images/logo.svg # 264px * 80px
   description: Your legal page served from git
   website: "https://legalpage.org"
   footer: true
