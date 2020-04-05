@@ -1,4 +1,4 @@
-![](https://legalpage.org/images/logo.png)   
+![](https://legalpage.org/images/logo.png =359x)   
 
 
 ## Why?
