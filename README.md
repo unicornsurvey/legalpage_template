@@ -13,7 +13,7 @@ https://github.com/vincenzourbisaglia/legalpage_template
 
 ### 2. Verify ownership of your domain
 Every legalpage is bound to a domain.   
-To verify that you own your domain create a TXT record that points to your legal page repository.
+To verify that you own your domain create a TXT record that points to your legal page repository.   
 Host: legalpage   
 Value: YOUR REPO   
 
