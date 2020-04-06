@@ -1,7 +1,6 @@
+## Why?
 ![](https://static.legalpage.org/images/legalpage.png)
 
-
-## Why?
 Because creating a legal page sucks.
 
 ## How?
