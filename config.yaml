@@ -1,9 +1,15 @@
 home:
   name: Legal Page
-  logo: https://legalpage.org/images/legalpage.png # 264px * 80px
+  logo: https://static.legalpage.org/images/legalpage.png # 264px * 80px
   description: Your legal page served from git
   website: "https://legalpage.org"
-  footer: true
+  
+header: 
+  enabled: true
+  
+footer:
+  text: "Proudly served by LegalPage.org"
+  enabled: true
 
 theme:
   primary: '#ff0000'
