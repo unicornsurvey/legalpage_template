@@ -1,4 +1,4 @@
-![](https://legalpage.org/images/legalpage.png)
+![](https://static.legalpage.org/images/legalpage.png)
 
 
 ## Why?
