@@ -15,7 +15,7 @@ https://github.com/vincenzourbisaglia/legalpage_template
 Every legalpage is bound to a domain.   
 To verify that you own your domain create a TXT record that points to your legal page repository.   
 Host: legalpage   
-Value: YOUR REPO   
+Value: YOUR REPOSITORY   
 
 ![](https://static.legalpage.org/images/dnsrecord.png)
 
