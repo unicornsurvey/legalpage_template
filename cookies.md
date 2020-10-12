@@ -5,4 +5,4 @@ use it for.
 #### Remove Cookies
 If you want to remove or disable cookies, you can definitely do so.
     Please refer to the documentation for your browser, as the steps are typically browser-specific.
-Follow this link to lear more: https://www.aboutcookies.org/
+Follow this link to learn more: https://www.aboutcookies.org/
