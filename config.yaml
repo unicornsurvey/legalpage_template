@@ -1,8 +1,8 @@
 home:
-  name: Legal Page
-  logo: https://static.legalpage.org/images/legalpage.png # 264px * 80px
-  description: Your legal page served from git
-  website: "https://legalpage.org"
+  name: Unicornsurvey
+  logo: https://static.unicornsurvey.com/media/unicornsurvey_logo.png # 264px * 80px
+  description: 
+  website: "https://unicornsurvey.com"
   
 header: 
   enabled: true
@@ -29,6 +29,6 @@ pages:
   file: imprint.md
 
 placeholder:
- SERVICE: https://legalpage.org
- EMAIL: mail@legalpage.org
- COMPANY: Awesome Company GmbH
+ SERVICE: https://unicornsurvey.com
+ EMAIL: hello@aupa.io
+ COMPANY: aupa.io GmbH
