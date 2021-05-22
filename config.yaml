@@ -32,3 +32,9 @@ placeholder:
  SERVICE: https://unicornsurvey.com
  EMAIL: hello@aupa.io
  COMPANY: aupa.io GmbH
+ STREET: Fabrikweg 6
+ ZIP: 8370
+ CITY: Sirnach 
+ COUNTRY: Schweiz
+ COPMANY_NUMBER: CHE-480.802.416
+ VAT_NUMBER: CHE-480.802.416 MWST
