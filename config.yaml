@@ -11,7 +11,7 @@ footer:
   enabled: true
 
 theme:
-  primary: "#343a40"
+  primary: "#626971"
   accent: "#7d6bff"
 
 pages:
