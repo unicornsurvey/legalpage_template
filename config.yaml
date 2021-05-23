@@ -12,7 +12,7 @@ footer:
 
 theme:
   primary: "#343a40"
-  accent: "#343a40"
+  accent: "#7d6bff"
 
 pages:
 - name: Privacy
